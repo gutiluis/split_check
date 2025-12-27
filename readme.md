@@ -1,8 +1,4 @@
-##
-
------
-
-How it Works:
+## How it Works:
 
 -----
 
@@ -14,6 +10,12 @@ How it Works:
 
 - Python
 
+###
+
+## What I Learned:
+
 -----
 
 ##
+
+clone repo:
